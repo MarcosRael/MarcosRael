@@ -20,3 +20,4 @@ Sou um desenvolvedor .NET, tenho paixão por resolver problemas complexos utiliz
   <img align="center" alt="Rael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
+
